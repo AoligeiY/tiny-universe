@@ -1,5 +1,13 @@
 # LLama3模型讲解
 
+参考：
+
+https://meeting.tencent.com/user-center/shared-record-info?id=0be29bb2-0648-4aeb-9baa-c9dc91dfc7a6&from=3&is-single=false&record_type=2
+
+https://zhuanlan.zhihu.com/p/694072728
+
+https://blog.csdn.net/qq_51957239/article/details/139065828
+
 ![image-20240918231654755-17267380025561](image/image-20240918231654755-17267380025561.png)
 
 Llama模型与GPT类似，也是采用了基于解码器的架构。从模型架构上LLaMA 3和LLaMA 2基本没有区别，同样使用了Transformer的Decoder-only架构。
