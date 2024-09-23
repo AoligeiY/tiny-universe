@@ -67,7 +67,7 @@ python preprocess.py
 python train.py
 ```
 
-![image-20240923204722698](../image/image-20240923204722698.png)
+![image-20240923204722698](image/image-20240923204722698-17271034402801.png)
 
 
 
