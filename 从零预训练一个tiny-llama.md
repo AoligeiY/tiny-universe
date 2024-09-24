@@ -73,4 +73,10 @@ python train.py
 
 ## 使用模型生成文本
 
-模型还在跑~~~
+在模型训练完成后，会在`output`目录下生成一个`ckpt.pt`文件，这个文件就是我们训练好的模型。我们可以使用以下命令生成文本。
+
+```
+python sample.py --prompt "One day, Lily met a Shoggoth"
+```
+
+![image-20240924094829464](image/image-20240924094829464.png)
